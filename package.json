@@ -1,0 +1,38 @@
+{
+  "name": "vscode-go-pack",
+  "displayName": "Extension Pack for Go/Golang",
+  "description": "Popular Visual Studio Code extensions for Go/Golang",
+  "version": "1.0.1",    
+  "publisher": "lyonnee",
+  "author": {
+    "name": "lyon nee",
+    "email": "lyon.nee@outlook.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lyonnee/go-vscode-pack"
+  },
+  "bugs": {
+    "url": "https://github.com/lyonnee/go-vscode-pack/issues"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "go",
+    "golang",
+    "interface",
+    "struct",
+    "coverage"
+  ],
+  "extensionPack": [
+    "golang.Go",
+    "galkowskit.go-interface-annotations",
+    "liuchao.go-struct-tag",
+    "defaltd.go-coverage-viewer"
+  ]
+}
