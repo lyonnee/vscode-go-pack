@@ -2,7 +2,7 @@
   "name": "vscode-go-pack",
   "displayName": "Extension Pack for Go/Golang",
   "description": "Popular Visual Studio Code extensions for Go/Golang",
-  "version": "1.0.1",    
+  "version": "1.0.2",    
   "publisher": "lyonnee",
   "author": {
     "name": "lyon nee",
@@ -11,13 +11,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lyonnee/go-vscode-pack"
+    "url": "https://github.com/lyonnee/vscode-go-pack"
   },
   "bugs": {
-    "url": "https://github.com/lyonnee/go-vscode-pack/issues"
+    "url": "https://github.com/lyonnee/vscode-go-pack/issues"
   },
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.73.0"
   },
   "categories": [
     "Extension Packs"
