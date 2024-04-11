@@ -2,8 +2,9 @@
   "name": "vscode-go-pack",
   "displayName": "Extension Pack for Go/Golang",
   "description": "Popular Visual Studio Code extensions for Go/Golang",
-  "version": "1.0.2",    
+  "version": "1.0.3",    
   "publisher": "lyonnee",
+  "icon": "icon.jpeg",
   "author": {
     "name": "lyon nee",
     "email": "lyon.nee@outlook.com"
