@@ -2,7 +2,7 @@
   "name": "vscode-go-pack",
   "displayName": "Extension Pack for Go/Golang",
   "description": "Popular Visual Studio Code extensions for Go/Golang",
-  "version": "1.0.3",    
+  "version": "1.0.4",
   "publisher": "lyonnee",
   "icon": "icon.jpeg",
   "author": {
@@ -21,19 +21,18 @@
     "vscode": "^1.73.0"
   },
   "categories": [
+    "Programming Languages",
     "Extension Packs"
   ],
   "keywords": [
     "go",
     "golang",
     "interface",
-    "struct",
-    "coverage"
+    "struct"
   ],
   "extensionPack": [
     "golang.Go",
     "galkowskit.go-interface-annotations",
-    "liuchao.go-struct-tag",
-    "defaltd.go-coverage-viewer"
+    "liuchao.go-struct-tag"
   ]
 }
