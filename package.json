@@ -2,7 +2,7 @@
   "name": "vscode-go-pack",
   "displayName": "Extension Pack for Go/Golang",
   "description": "Popular Visual Studio Code extensions for Go/Golang",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "publisher": "lyonnee",
   "icon": "icon.jpeg",
   "author": {
@@ -33,6 +33,7 @@
   "extensionPack": [
     "golang.Go",
     "galkowskit.go-interface-annotations",
-    "liuchao.go-struct-tag"
+    "liuchao.go-struct-tag",
+    "svvashishtha.go-interface-navigator"
   ]
 }
