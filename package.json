@@ -1,8 +1,8 @@
 {
   "name": "vscode-go-pack",
   "displayName": "Extension Pack for Go/Golang",
-  "description": "Popular Visual Studio Code extensions for Go/Golang",
-  "version": "1.0.5",
+  "description": "Essential Go/Golang development tools - syntax highlighting, IntelliSense, debugging, testing, linting, and more",
+  "version": "1.0.6",
   "publisher": "lyonnee",
   "icon": "icon.jpeg",
   "author": {
@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/lyonnee/vscode-go-pack"
   },
+  "homepage": "https://github.com/lyonnee/vscode-go-pack",
   "bugs": {
     "url": "https://github.com/lyonnee/vscode-go-pack/issues"
   },
@@ -21,15 +22,32 @@
     "vscode": "^1.73.0"
   },
   "categories": [
-    "Programming Languages",
-    "Extension Packs"
+    "Extension Packs",
+    "Programming Languages"
   ],
   "keywords": [
     "go",
     "golang",
+    "extension pack",
+    "development",
+    "programming",
+    "tools",
+    "syntax",
+    "intellisense",
+    "debugging",
+    "testing",
+    "linting",
+    "formatter",
     "interface",
-    "struct"
+    "struct",
+    "tag",
+    "navigation",
+    "productivity"
   ],
+  "galleryBanner": {
+    "color": "#00ADD8",
+    "theme": "dark"
+  },
   "extensionPack": [
     "golang.Go",
     "galkowskit.go-interface-annotations",
